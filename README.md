@@ -32,10 +32,3 @@ python port_scanner.py <target> [--start START_PORT] [--end END_PORT]
 python port_scanner.py 192.168.1.1 --start 1 --end 100
 ```
 
-## ⚠️ Legal Notice
-
-This tool is intended for educational use and internal testing only. Do **not** scan IPs you don’t own or have permission to test.
-
-## 📄 License
-
-This project is licensed under the MIT License.
